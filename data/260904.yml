@@ -1,14 +1,16 @@
 about:
-  description: Grep the GIF. Stick the landing.
+  description:
+  |
+    Grep the GIF. Stick the landing.
   license: MIT
   homepage: https://gifgrep.com
-  head: ef3aff2
+  head: 900b9b9
   archived: false
   latestVersion: v0.3.1
-  collectedAt: 2026-09-04T04:09:00Z
+  collectedAt: 2026-09-04T19:27:21Z
 timeline:
   created: 2025-12-30
-  lastCommit: 2026-08-28
+  lastCommit: 2026-09-04
   lastRelease: 2026-08-28
 popularity:
   star: 130
@@ -16,7 +18,7 @@ popularity:
   fork: 17
   release: 7
   contributor: 4
-  pullRequest: 1
+  pullRequest: 8
   issue: 5
 language:
   Go: 223900
@@ -24,37 +26,63 @@ language:
   Shell: 6288
   Makefile: 1290
   Just: 356
-totalLine: 291839
+totalBytes: 291839
 recent:
   last30d:
     since: 2026-08-05
     release: 1
-    mergedPR: 2
+    mergedPR: 3
     openPR: 0
     closedIssue: 1
     openIssue: 1
-    commit: 4
-  last90d:
-    since: 2026-06-06
+    commit: 5
+  last60d:
+    since: 2026-07-06
     release: 1
     mergedPR: 4
     openPR: 0
     closedIssue: 1
     openIssue: 1
     commit: 6
-  last180d:
-    since: 2026-03-08
-    release: 2
+  last90d:
+    since: 2026-06-06
+    release: 1
     mergedPR: 5
     openPR: 0
     closedIssue: 1
     openIssue: 1
-    commit: 30
+    commit: 7
+  last180d:
+    since: 2026-03-08
+    release: 2
+    mergedPR: 6
+    openPR: 0
+    closedIssue: 1
+    openIssue: 1
+    commit: 31
   last360d:
     since: 2025-09-09
     release: 7
-    mergedPR: 6
+    mergedPR: 7
     openPR: 0
     closedIssue: 4
     openIssue: 1
-    commit: 113
+    commit: 114
+  last720d:
+    since: 2024-09-14
+    release: 7
+    mergedPR: 7
+    openPR: 0
+    closedIssue: 4
+    openIssue: 1
+    commit: 114
+total:
+  release: 7
+  mergedPR: 7
+  openPR: 0
+  closedIssue: 4
+  openIssue: 1
+  commit: 114
+---
+---
+
