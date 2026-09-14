@@ -32,8 +32,8 @@ x install gifgrep
 
 ## 发布
 
-- **最新版本**: `v0.4.1` (2026-09-12)
-- **最近提交**: 2026-09-13
+- **最新版本**: `v0.4.2` (2026-09-14)
+- **最近提交**: 2026-09-14
 - **Release 含资产**: 8 个
 
 ## 流行度
@@ -42,31 +42,31 @@ x install gifgrep
 
 ## 累计统计
 
-- **发布数**: 10 · **已合并 PR**: 20 · **开放 PR**: 0 · **已关闭 issue**: 5 · **开放 issue**: 0 · **提交数**: 133
+- **发布数**: 11 · **已合并 PR**: 20 · **开放 PR**: 0 · **已关闭 issue**: 5 · **开放 issue**: 0 · **提交数**: 135
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 4 | 16 | 0 | 2 | 0 | 0 |
-| last60d | 2026-07-15 | 4 | 17 | 0 | 2 | 0 | 0 |
-| 90d | 2026-06-15 | 4 | 18 | 0 | 2 | 0 | 0 |
-| last180d | 2026-03-17 | 5 | 19 | 0 | 2 | 0 | 0 |
-| 360d | 2025-09-18 | 10 | 20 | 0 | 5 | 0 | 0 |
-| last720d | 2024-09-23 | 10 | 20 | 0 | 5 | 0 | 133 |
+| 30d | 2026-08-15 | 5 | 16 | 0 | 1 | 0 | 26 |
+| last60d | 2026-07-16 | 5 | 17 | 0 | 2 | 0 | 27 |
+| 90d | 2026-06-16 | 5 | 18 | 0 | 2 | 0 | 28 |
+| last180d | 2026-03-18 | 6 | 19 | 0 | 2 | 0 | 52 |
+| 360d | 2025-09-19 | 11 | 20 | 0 | 5 | 0 | 135 |
+| last720d | 2024-09-24 | 11 | 20 | 0 | 5 | 0 | 135 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [gifgrep_0.4.1_darwin_amd64.tar.gz](https://github.com/steipete/gifgrep/releases/download/v0.4.1/gifgrep_0.4.1_darwin_amd64.tar.gz) | 3.8 MiB | `native/darwin/x64` |
-| [gifgrep_0.4.1_darwin_amd64.tar.gz.sha256](https://github.com/steipete/gifgrep/releases/download/v0.4.1/gifgrep_0.4.1_darwin_amd64.tar.gz.sha256) | 105 B | `native/darwin/x64` |
-| [gifgrep_0.4.1_darwin_arm64.tar.gz](https://github.com/steipete/gifgrep/releases/download/v0.4.1/gifgrep_0.4.1_darwin_arm64.tar.gz) | 3.5 MiB | `native/darwin/arm64` |
-| [gifgrep_0.4.1_darwin_arm64.tar.gz.sha256](https://github.com/steipete/gifgrep/releases/download/v0.4.1/gifgrep_0.4.1_darwin_arm64.tar.gz.sha256) | 105 B | `native/darwin/arm64` |
-| [gifgrep_0.4.1_linux_amd64.tar.gz](https://github.com/steipete/gifgrep/releases/download/v0.4.1/gifgrep_0.4.1_linux_amd64.tar.gz) | 3.7 MiB | `native/linux/x64` |
-| [gifgrep_0.4.1_linux_amd64.tar.gz.sha256](https://github.com/steipete/gifgrep/releases/download/v0.4.1/gifgrep_0.4.1_linux_amd64.tar.gz.sha256) | 104 B | `native/linux/x64` |
-| [gifgrep_0.4.1_linux_arm64.tar.gz](https://github.com/steipete/gifgrep/releases/download/v0.4.1/gifgrep_0.4.1_linux_arm64.tar.gz) | 3.4 MiB | `native/linux/arm64` |
-| [gifgrep_0.4.1_linux_arm64.tar.gz.sha256](https://github.com/steipete/gifgrep/releases/download/v0.4.1/gifgrep_0.4.1_linux_arm64.tar.gz.sha256) | 104 B | `native/linux/arm64` |
+| [gifgrep_0.4.2_darwin_amd64.tar.gz](https://github.com/steipete/gifgrep/releases/download/v0.4.2/gifgrep_0.4.2_darwin_amd64.tar.gz) | 3.8 MiB | `native/darwin/x64` |
+| [gifgrep_0.4.2_darwin_amd64.tar.gz.sha256](https://github.com/steipete/gifgrep/releases/download/v0.4.2/gifgrep_0.4.2_darwin_amd64.tar.gz.sha256) | 105 B | `native/darwin/x64` |
+| [gifgrep_0.4.2_darwin_arm64.tar.gz](https://github.com/steipete/gifgrep/releases/download/v0.4.2/gifgrep_0.4.2_darwin_arm64.tar.gz) | 3.5 MiB | `native/darwin/arm64` |
+| [gifgrep_0.4.2_darwin_arm64.tar.gz.sha256](https://github.com/steipete/gifgrep/releases/download/v0.4.2/gifgrep_0.4.2_darwin_arm64.tar.gz.sha256) | 105 B | `native/darwin/arm64` |
+| [gifgrep_0.4.2_linux_amd64.tar.gz](https://github.com/steipete/gifgrep/releases/download/v0.4.2/gifgrep_0.4.2_linux_amd64.tar.gz) | 3.7 MiB | `native/linux/x64` |
+| [gifgrep_0.4.2_linux_amd64.tar.gz.sha256](https://github.com/steipete/gifgrep/releases/download/v0.4.2/gifgrep_0.4.2_linux_amd64.tar.gz.sha256) | 104 B | `native/linux/x64` |
+| [gifgrep_0.4.2_linux_arm64.tar.gz](https://github.com/steipete/gifgrep/releases/download/v0.4.2/gifgrep_0.4.2_linux_arm64.tar.gz) | 3.4 MiB | `native/linux/arm64` |
+| [gifgrep_0.4.2_linux_arm64.tar.gz.sha256](https://github.com/steipete/gifgrep/releases/download/v0.4.2/gifgrep_0.4.2_linux_arm64.tar.gz.sha256) | 104 B | `native/linux/arm64` |
 
 ## 改进这些数据
 
@@ -77,4 +77,4 @@ gifgrep 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T02:50:33Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T03:05:00Z._
