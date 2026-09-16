@@ -14,12 +14,12 @@ x install gifgrep
 
 ## Code insight
 
-Total: **12,869** lines of code across **121** files in the top 5 languages.
+Total: **13,244** lines of code across **129** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 9,196 | 40 | 949 | 89 |
-| Html | 2,129 | 0 | 15 | 21 |
+| Go | 9,564 | 45 | 987 | 97 |
+| Html | 2,136 | 0 | 15 | 21 |
 | JavaScript | 1,171 | 2 | 69 | 6 |
 | Sh | 193 | 9 | 36 | 2 |
 | Python | 68 | 3 | 12 | 3 |
@@ -33,7 +33,7 @@ Total: **12,869** lines of code across **121** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.4.3` (2026-09-14)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-15
 - **Assets in release**: 8
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **12,869** lines of code across **121** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 23 · **Open PRs**: 0 · **Closed issues**: 5 · **Open issues**: 0 · **Commits**: 138
+- **Releases**: 12 · **Merged PRs**: 26 · **Open PRs**: 0 · **Closed issues**: 5 · **Open issues**: 0 · **Commits**: 141
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 6 | 19 | 0 | 1 | 0 | 29 |
-| last60d | 2026-07-17 | 6 | 20 | 0 | 2 | 0 | 30 |
-| 90d | 2026-06-17 | 6 | 21 | 0 | 2 | 0 | 31 |
-| last180d | 2026-03-19 | 7 | 22 | 0 | 2 | 0 | 55 |
-| 360d | 2025-09-20 | 12 | 23 | 0 | 5 | 0 | 138 |
-| last720d | 2024-09-25 | 12 | 23 | 0 | 5 | 0 | 138 |
+| 30d | 2026-08-17 | 6 | 22 | 0 | 1 | 0 | 32 |
+| last60d | 2026-07-18 | 6 | 23 | 0 | 2 | 0 | 33 |
+| 90d | 2026-06-18 | 6 | 24 | 0 | 2 | 0 | 34 |
+| last180d | 2026-03-20 | 7 | 25 | 0 | 2 | 0 | 58 |
+| 360d | 2025-09-21 | 12 | 26 | 0 | 5 | 0 | 141 |
+| last720d | 2024-09-26 | 12 | 26 | 0 | 5 | 0 | 141 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for gifgrep lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T03:06:42Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T03:03:39Z._
