@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1264,
       "digest": "sha256:ce653d2d3a9fd9ccd6ae3be26fe4e3f482c50b3861203fe20e4205e38f8398c8",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-22T10:47:09Z",
       "updated_at": "2026-09-22T10:47:09Z",
       "browser_download_url": "https://github.com/steipete/gifgrep/releases/download/v0.4.4/ASSET-INVENTORY.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4058526,
       "digest": "sha256:111ca2e1dcee147b1521151488aba69f844c5b7a5f66a2d11d969f949905e8be",
-      "download_count": 13,
+      "download_count": 21,
       "created_at": "2026-09-22T10:47:11Z",
       "updated_at": "2026-09-22T10:47:11Z",
       "browser_download_url": "https://github.com/steipete/gifgrep/releases/download/v0.4.4/gifgrep_0.4.4_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3643809,
       "digest": "sha256:167b6d8717b92aab88a9fb62349e8ffc440cc6232be7364564615914def61b32",
-      "download_count": 401,
+      "download_count": 671,
       "created_at": "2026-09-22T10:47:11Z",
       "updated_at": "2026-09-22T10:47:12Z",
       "browser_download_url": "https://github.com/steipete/gifgrep/releases/download/v0.4.4/gifgrep_0.4.4_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3922747,
       "digest": "sha256:974bb32c99f5b2931498809600a135e656f67e9cdfd5eff3fb018afbe8e886dc",
-      "download_count": 29,
+      "download_count": 62,
       "created_at": "2026-09-22T10:47:12Z",
       "updated_at": "2026-09-22T10:47:13Z",
       "browser_download_url": "https://github.com/steipete/gifgrep/releases/download/v0.4.4/gifgrep_0.4.4_linux_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3516412,
       "digest": "sha256:77a864f8d0903cf3f77c1e5afe6c31114d478ebe584d3b3e71f81fce21b0e86c",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-09-22T10:47:13Z",
       "updated_at": "2026-09-22T10:47:13Z",
       "browser_download_url": "https://github.com/steipete/gifgrep/releases/download/v0.4.4/gifgrep_0.4.4_linux_arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 656,
       "digest": "sha256:9cdbc18efc519c065eaca104803d27861bf40ef3e2895902c41d16b3e98d7d89",
-      "download_count": 2,
+      "download_count": 6,
       "created_at": "2026-09-22T10:47:10Z",
       "updated_at": "2026-09-22T10:47:10Z",
       "browser_download_url": "https://github.com/steipete/gifgrep/releases/download/v0.4.4/SHA256SUMS"
