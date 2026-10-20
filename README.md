@@ -14,12 +14,12 @@ x install gifgrep
 
 ## Code insight
 
-Total: **13,286** lines of code across **129** files in the top 5 languages.
+Total: **13,287** lines of code across **129** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 9,605 | 45 | 988 | 97 |
-| Html | 2,137 | 0 | 15 | 21 |
+| Html | 2,138 | 0 | 15 | 21 |
 | JavaScript | 1,171 | 2 | 69 | 6 |
 | Sh | 193 | 9 | 36 | 2 |
 | Python | 68 | 3 | 12 | 3 |
@@ -33,7 +33,7 @@ Total: **13,286** lines of code across **129** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.4.4` (2026-09-22)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-10-19
 - **Assets in release**: 8
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **13,286** lines of code across **129** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 30 · **Open PRs**: 0 · **Closed issues**: 5 · **Open issues**: 0 · **Commits**: 145
+- **Releases**: 13 · **Merged PRs**: 31 · **Open PRs**: 0 · **Closed issues**: 5 · **Open issues**: 0 · **Commits**: 146
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 1 | 4 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-20 | 7 | 26 | 0 | 1 | 0 | 36 |
-| 90d | 2026-07-21 | 7 | 27 | 0 | 2 | 0 | 37 |
-| last180d | 2026-04-22 | 8 | 29 | 0 | 2 | 0 | 60 |
-| 360d | 2025-10-24 | 13 | 30 | 0 | 5 | 0 | 145 |
-| last720d | 2024-10-29 | 13 | 30 | 0 | 5 | 0 | 145 |
+| 30d | 2026-09-20 | 1 | 5 | 0 | 0 | 0 | 1 |
+| last60d | 2026-08-21 | 7 | 27 | 0 | 1 | 0 | 37 |
+| 90d | 2026-07-22 | 7 | 28 | 0 | 2 | 0 | 38 |
+| last180d | 2026-04-23 | 8 | 30 | 0 | 2 | 0 | 61 |
+| 360d | 2025-10-25 | 13 | 31 | 0 | 5 | 0 | 146 |
+| last720d | 2024-10-30 | 13 | 31 | 0 | 5 | 0 | 146 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for gifgrep lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T02:59:40Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T03:09:22Z._
