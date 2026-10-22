@@ -32,41 +32,41 @@ Total: **13,287** lines of code across **129** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.4.4` (2026-09-22)
-- **Last commit**: 2026-10-19
+- **Latest**: `v0.4.5` (2026-10-21)
+- **Last commit**: 2026-10-21
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 134 · **Forks**: 19 · **Open issues**: 5 · **Contributors**: 4
+- **Stars**: 134 · **Forks**: 18 · **Open issues**: 5 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 31 · **Open PRs**: 0 · **Closed issues**: 5 · **Open issues**: 0 · **Commits**: 146
+- **Releases**: 14 · **Merged PRs**: 33 · **Open PRs**: 0 · **Closed issues**: 5 · **Open issues**: 0 · **Commits**: 148
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 5 | 0 | 0 | 0 | 1 |
-| last60d | 2026-08-22 | 7 | 27 | 0 | 1 | 0 | 37 |
-| 90d | 2026-07-23 | 7 | 28 | 0 | 2 | 0 | 38 |
-| last180d | 2026-04-24 | 8 | 30 | 0 | 2 | 0 | 61 |
-| 360d | 2025-10-26 | 13 | 31 | 0 | 5 | 0 | 146 |
-| last720d | 2024-10-31 | 13 | 31 | 0 | 5 | 0 | 146 |
+| 30d | 2026-09-22 | 2 | 3 | 0 | 0 | 0 | 3 |
+| last60d | 2026-08-23 | 8 | 29 | 0 | 1 | 0 | 39 |
+| 90d | 2026-07-24 | 8 | 30 | 0 | 2 | 0 | 40 |
+| last180d | 2026-04-25 | 9 | 32 | 0 | 2 | 0 | 63 |
+| 360d | 2025-10-27 | 14 | 33 | 0 | 5 | 0 | 148 |
+| last720d | 2024-11-01 | 14 | 33 | 0 | 5 | 0 | 148 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [ASSET-INVENTORY.json](https://github.com/steipete/gifgrep/releases/download/v0.4.4/ASSET-INVENTORY.json) | 1.2 KiB | `other` |
-| [gifgrep_0.4.4_darwin_amd64.tar.gz](https://github.com/steipete/gifgrep/releases/download/v0.4.4/gifgrep_0.4.4_darwin_amd64.tar.gz) | 3.9 MiB | `native/darwin/x64` |
-| [gifgrep_0.4.4_darwin_arm64.tar.gz](https://github.com/steipete/gifgrep/releases/download/v0.4.4/gifgrep_0.4.4_darwin_arm64.tar.gz) | 3.5 MiB | `native/darwin/arm64` |
-| [gifgrep_0.4.4_linux_amd64.tar.gz](https://github.com/steipete/gifgrep/releases/download/v0.4.4/gifgrep_0.4.4_linux_amd64.tar.gz) | 3.7 MiB | `native/linux/x64` |
-| [gifgrep_0.4.4_linux_arm64.tar.gz](https://github.com/steipete/gifgrep/releases/download/v0.4.4/gifgrep_0.4.4_linux_arm64.tar.gz) | 3.4 MiB | `native/linux/arm64` |
-| [RELEASE-NOTES.md](https://github.com/steipete/gifgrep/releases/download/v0.4.4/RELEASE-NOTES.md) | 775 B | `other` |
-| [SHA256SUMS](https://github.com/steipete/gifgrep/releases/download/v0.4.4/SHA256SUMS) | 656 B | `other` |
-| [SIGNING-MANIFEST.json](https://github.com/steipete/gifgrep/releases/download/v0.4.4/SIGNING-MANIFEST.json) | 1.2 KiB | `other` |
+| [ASSET-INVENTORY.json](https://github.com/steipete/gifgrep/releases/download/v0.4.5/ASSET-INVENTORY.json) | 1.2 KiB | `other` |
+| [gifgrep_0.4.5_darwin_amd64.tar.gz](https://github.com/steipete/gifgrep/releases/download/v0.4.5/gifgrep_0.4.5_darwin_amd64.tar.gz) | 3.9 MiB | `native/darwin/x64` |
+| [gifgrep_0.4.5_darwin_arm64.tar.gz](https://github.com/steipete/gifgrep/releases/download/v0.4.5/gifgrep_0.4.5_darwin_arm64.tar.gz) | 3.4 MiB | `native/darwin/arm64` |
+| [gifgrep_0.4.5_linux_amd64.tar.gz](https://github.com/steipete/gifgrep/releases/download/v0.4.5/gifgrep_0.4.5_linux_amd64.tar.gz) | 3.7 MiB | `native/linux/x64` |
+| [gifgrep_0.4.5_linux_arm64.tar.gz](https://github.com/steipete/gifgrep/releases/download/v0.4.5/gifgrep_0.4.5_linux_arm64.tar.gz) | 3.4 MiB | `native/linux/arm64` |
+| [RELEASE-NOTES.md](https://github.com/steipete/gifgrep/releases/download/v0.4.5/RELEASE-NOTES.md) | 482 B | `other` |
+| [SHA256SUMS](https://github.com/steipete/gifgrep/releases/download/v0.4.5/SHA256SUMS) | 656 B | `other` |
+| [SIGNING-MANIFEST.json](https://github.com/steipete/gifgrep/releases/download/v0.4.5/SIGNING-MANIFEST.json) | 1.2 KiB | `other` |
 
 ## Improve this data
 
@@ -77,4 +77,4 @@ Install metadata for gifgrep lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T03:03:53Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T03:02:48Z._
