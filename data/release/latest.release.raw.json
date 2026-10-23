@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4062580,
       "digest": "sha256:4e509569b39adb7773cf9ded020013ff7a70fcb239b44b603aeccc45542fe2e1",
-      "download_count": 20,
+      "download_count": 25,
       "created_at": "2026-10-21T03:58:36Z",
       "updated_at": "2026-10-21T03:58:36Z",
       "browser_download_url": "https://github.com/steipete/gifgrep/releases/download/v0.4.5/gifgrep_0.4.5_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3607276,
       "digest": "sha256:de5afebc29f69e0104841df0c45d5c9954f68d5b82b4881614a8526ff91bc2c8",
-      "download_count": 509,
+      "download_count": 767,
       "created_at": "2026-10-21T03:58:37Z",
       "updated_at": "2026-10-21T03:58:37Z",
       "browser_download_url": "https://github.com/steipete/gifgrep/releases/download/v0.4.5/gifgrep_0.4.5_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3929368,
       "digest": "sha256:7430fc2d3e544cad7794b9ffab0c99a49983f8dcc37b1816da25d6c6a1453efe",
-      "download_count": 43,
+      "download_count": 81,
       "created_at": "2026-10-21T03:58:37Z",
       "updated_at": "2026-10-21T03:58:38Z",
       "browser_download_url": "https://github.com/steipete/gifgrep/releases/download/v0.4.5/gifgrep_0.4.5_linux_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3521346,
       "digest": "sha256:9ebcfbeeeb3d0bc42b02ecfcc8a124feb5ddbf18160e55422d60d0e141d6bd9b",
-      "download_count": 14,
+      "download_count": 20,
       "created_at": "2026-10-21T03:58:38Z",
       "updated_at": "2026-10-21T03:58:39Z",
       "browser_download_url": "https://github.com/steipete/gifgrep/releases/download/v0.4.5/gifgrep_0.4.5_linux_arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 656,
       "digest": "sha256:9e992c6b06f6157cdd6528bc30a729bad2a834e7ccf879af86c8c6097e44ac91",
-      "download_count": 13,
+      "download_count": 23,
       "created_at": "2026-10-21T03:58:35Z",
       "updated_at": "2026-10-21T03:58:35Z",
       "browser_download_url": "https://github.com/steipete/gifgrep/releases/download/v0.4.5/SHA256SUMS"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1244,
       "digest": "sha256:a60a20230b9e3039c009c971055a8f5acdac632b1949b0c6b7da53890069a124",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-21T03:58:35Z",
       "updated_at": "2026-10-21T03:58:35Z",
       "browser_download_url": "https://github.com/steipete/gifgrep/releases/download/v0.4.5/SIGNING-MANIFEST.json"
