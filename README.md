@@ -48,12 +48,12 @@ Total: **13,412** lines of code across **131** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 2 | 6 | 0 | 0 | 0 | 6 |
-| last60d | 2026-08-26 | 9 | 32 | 0 | 0 | 0 | 38 |
-| 90d | 2026-07-27 | 9 | 33 | 0 | 2 | 0 | 42 |
-| last180d | 2026-04-28 | 10 | 35 | 0 | 2 | 0 | 66 |
-| 360d | 2025-10-30 | 15 | 36 | 0 | 5 | 0 | 151 |
-| last720d | 2024-11-04 | 15 | 36 | 0 | 5 | 0 | 151 |
+| 30d | 2026-09-26 | 2 | 6 | 0 | 0 | 0 | 6 |
+| last60d | 2026-08-27 | 9 | 32 | 0 | 0 | 0 | 38 |
+| 90d | 2026-07-28 | 9 | 33 | 0 | 2 | 0 | 42 |
+| last180d | 2026-04-29 | 10 | 35 | 0 | 2 | 0 | 66 |
+| 360d | 2025-10-31 | 15 | 36 | 0 | 5 | 0 | 151 |
+| last720d | 2024-11-05 | 15 | 36 | 0 | 5 | 0 | 151 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for gifgrep lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T02:56:31Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T02:55:22Z._
