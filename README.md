@@ -38,7 +38,7 @@ Total: **13,412** lines of code across **131** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 137 · **Forks**: 19 · **Open issues**: 5 · **Contributors**: 5
+- **Stars**: 138 · **Forks**: 19 · **Open issues**: 5 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **13,412** lines of code across **131** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 2 | 6 | 0 | 0 | 0 | 6 |
-| last60d | 2026-09-13 | 5 | 16 | 0 | 0 | 0 | 10 |
-| 90d | 2026-08-14 | 9 | 32 | 0 | 2 | 0 | 42 |
-| last180d | 2026-05-16 | 9 | 34 | 0 | 2 | 0 | 44 |
-| 360d | 2025-11-17 | 15 | 36 | 0 | 5 | 0 | 151 |
-| last720d | 2024-11-22 | 15 | 36 | 0 | 5 | 0 | 151 |
+| 30d | 2026-10-14 | 2 | 6 | 0 | 0 | 0 | 6 |
+| last60d | 2026-09-14 | 5 | 13 | 0 | 0 | 0 | 10 |
+| 90d | 2026-08-15 | 9 | 32 | 0 | 1 | 0 | 42 |
+| last180d | 2026-05-17 | 9 | 34 | 0 | 2 | 0 | 44 |
+| 360d | 2025-11-18 | 15 | 36 | 0 | 5 | 0 | 151 |
+| last720d | 2024-11-23 | 15 | 36 | 0 | 5 | 0 | 151 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for gifgrep lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T05:31:05Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T04:48:42Z._
